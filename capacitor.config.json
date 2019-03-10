@@ -1,0 +1,6 @@
+{
+  "appId": "dev.ionicAngularBonanza",
+  "appName": "ionic_angular_bonanza",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

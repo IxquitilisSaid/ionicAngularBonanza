@@ -1,5 +1,7 @@
 {
   "name": "ionic_angular_bonanza",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
